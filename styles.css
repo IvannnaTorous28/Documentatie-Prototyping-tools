@@ -1,0 +1,38 @@
+body{
+  margin-top: 10px;
+  font-family: 'Open Sans', sans-serif;
+  background-image: url(bcim.jpeg);
+}
+main{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  color: rgb(15, 74, 97);
+}
+.navbar ul{
+      list-style-type: none;
+      background-color: rgb(15, 74, 97);
+      padding: 0;
+      margin: 0;
+      overflow: hidden;
+}
+.navbar a{
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+.navbar a:hover{
+  background-color: rgb(120, 224, 209);
+}
+.navbar li{
+  float: left;
+}
+  
+      
